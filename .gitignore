@@ -32,7 +32,6 @@
 *.resS
 /[Ll]ibrary/
 /Library/
-\Library\
 *ArtifactDB
 *level2
 *4c
