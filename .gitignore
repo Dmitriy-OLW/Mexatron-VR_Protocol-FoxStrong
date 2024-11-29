@@ -32,14 +32,21 @@
 *.resS
 /[Ll]ibrary/
 /Library/
+
+# Extra
 *ArtifactDB
 *level2
 *4c
 *.dylib
-*Library
 
+#Directory
+*Library
+*Logs
+*obj
 *obj/Debug
 *UserSettings
+
+
 
 #Rider
 .idea/
