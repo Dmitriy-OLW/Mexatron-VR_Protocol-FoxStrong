@@ -1,0 +1,98 @@
+trackSelection = true
+refreshSearchWindowsInPlayMode = false
+fetchPreview = true
+defaultFlags = 0
+keepOpen = false
+queryFolder = "Assets"
+onBoardingDoNotAskAgain = true
+showPackageIndexes = false
+showStatusBar = false
+scopes = {
+	"last_search.6DF93126" = "h:layer>11"
+	"OpenInspectorPreview.6DF93126" = "0"
+	"currentGroup.6DF93126" = null
+	"picker_window_position_offset.0B486DF2" = "-468,8;185,6;817,6;550,4"
+	"picker_search_text.0B486DF2" = ""
+	"last_search.0B486DF2" = ""
+	"OpenInspectorPreview.0B486DF2" = "0"
+	"currentGroup.0B486DF2" = null
+	"last_search.98CF4AA6" = "h: t:AudioSource"
+	"OpenInspectorPreview.98CF4AA6" = "0"
+	"currentGroup.98CF4AA6" = "scene"
+}
+providers = {
+	performance = {
+		active = false
+		priority = 100
+		defaultAction = null
+	}
+	packages = {
+		active = true
+		priority = 90
+		defaultAction = null
+	}
+	scene = {
+		active = true
+		priority = 50
+		defaultAction = null
+	}
+	store = {
+		active = true
+		priority = 100
+		defaultAction = null
+	}
+	adb = {
+		active = false
+		priority = 2500
+		defaultAction = null
+	}
+	log = {
+		active = false
+		priority = 210
+		defaultAction = null
+	}
+	find = {
+		active = true
+		priority = 25
+		defaultAction = null
+	}
+	profilermarkers = {
+		active = false
+		priority = 100
+		defaultAction = null
+	}
+	asset = {
+		active = true
+		priority = 25
+		defaultAction = null
+	}
+	presets_provider = {
+		active = false
+		priority = -10
+		defaultAction = null
+	}
+}
+objectSelectors = {
+}
+recentSearches = [
+	"h:layer>3"
+	"1"
+	"t"
+	"h: t:AudioSource"
+	"h: t:Au"
+	"h:"
+	"h: t=MeshFilter vertices>=1024"
+]
+searchItemFavorites = [
+]
+savedSearchesSortOrder = 0
+showSavedSearchPanel = false
+hideTabs = false
+expandedQueries = [
+]
+queryBuilder = true
+ignoredProperties = "id;name;classname;imagecontentshash"
+helperWidgetCurrentArea = "h:"
+disabledIndexers = ""
+minIndexVariations = 2
+findProviderIndexHelper = true

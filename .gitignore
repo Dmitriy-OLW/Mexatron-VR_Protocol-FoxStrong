@@ -16,6 +16,7 @@
 /[Pp]ng/
 /[Jj]peg/
 /[Jj]pg/
+/[Mm]p3/
 
 *.obj
 *.fbx
@@ -25,6 +26,18 @@
 *.jpg
 *.assets
 *.exr
+*.mp3
+*.xml
+*.bin
+*.resS
+/[Ll]ibrary/
+/Library/
+\Library\
+*ArtifactDB
+*level2
+*4c
+*.dylib
+*.Library
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
