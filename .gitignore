@@ -4,11 +4,27 @@
 #
 /[Ll]ibrary/
 /[Tt]emp/
-/[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+
+# My Zone
+/[Oo]bj/
+/[Ff]bx/
+/[Bb]lend/
+/[Pp]ng/
+/[Jj]peg/
+/[Jj]pg/
+
+*.obj
+*.fbx
+*.blend
+*.png
+*.jpeg
+*.jpg
+*.assets
+*.exr
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
