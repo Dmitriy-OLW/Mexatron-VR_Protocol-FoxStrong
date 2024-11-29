@@ -36,7 +36,16 @@
 *level2
 *4c
 *.dylib
-*.Library
+*Library
+
+*obj/Debug
+*UserSettings
+
+#Rider
+.idea/
+#Visual Studio files
+.vscode/
+
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
