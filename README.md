@@ -1,7 +1,7 @@
 # Mexatron-VR_Protocol-FoxStrong
-"Protocol FoxStrong" - game for the 2DOF move platform, VR and Logitech steering wheel and pedals.
+## "Protocol FoxStrong" - game for the 2DOF move platform, VR and Logitech steering wheel and pedals.
 
-An arcade flight simulator of a flying car. The goal of the game is to show the capabilities of mechatronic VR, and to show that with the help of mechatronic VR it is possible to recreate the physical sensations that a user might experience if a real one were driving a sci-fi vehicle presented in the game.
+**An arcade flight simulator of a flying car.** The goal of the game is to show the capabilities of mechatronic VR, and to show that with the help of mechatronic VR it is possible to recreate the physical sensations that a user might experience if a real one were driving a sci-fi vehicle presented in the game.
 
 The game recreates the physics of the movement of flying cars, which presumably would have been a real flying car.
 The game has two different maps, one is an asteroid belt in outer space, and the second is the surface of the distant planet Xart, covered with fog and unearthly structures. The size of the maps is amazing, because they are truly endless, and the only danger is radiation.
@@ -11,7 +11,7 @@ The player will have to test himself in endless mode. Before starting the game, 
 There are two types of enemies in the game: a Combat space cruiser and a Heavy Space Fighter. There are 4 plasma guns installed on board the flying machine, effective against enemy ships. The game has various skins for the player's car.
 Equipment and Administration
 
-Additional equipment must be used for the game:
+### Additional equipment must be used for the game:
 
 1. Logitech G29 steering wheel and pedals.
 
@@ -27,7 +27,7 @@ The game was primarily created as an attraction for a mobile platform and a VR h
 
 //-----------------------------------------------------------------------------------------------------
 
-Аркадный Авиасимулятор летающей машины. Цель игры показать возможности мехатронного VR, и показать, что с помощью мехатронного VR можно воссоздать физические ощущения, которые мог бы испытывать пользователь, если бы реальный управлял представленным в игре научно-фантастическим транспортным средством.
+**Аркадный Авиасимулятор летающей машины.** Цель игры показать возможности мехатронного VR, и показать, что с помощью мехатронного VR можно воссоздать физические ощущения, которые мог бы испытывать пользователь, если бы реальный управлял представленным в игре научно-фантастическим транспортным средством.
 
 В игре воссоздана физика передвижения летающей машин, которая предположительно была бы у реальной летающей машины.
 В игре присутствует две непохожие друг на друга карты, одна это пояс астероидов в открытом космосе, а вторая это поверхность далёкой планеты Xart, покрытая туманом и неземными структурами. Размеры карт поражаю воображение, ведь они поистине бесконечные, и единственная опасность это радиация.
@@ -37,7 +37,7 @@ The game was primarily created as an attraction for a mobile platform and a VR h
 В игре присутствует два типа врагов: Боевой космический крейсер и Тяжёлый космический истребитель. На борту летающей машины установлено 4 плазменных орудий, эффективные против вражеских кораблей. В игре присутствуют различные скины на автомобиль игрока.
 Equipment and Administration
 
-Для игры необходимо использовать дополнительное оборудование:
+### Для игры необходимо использовать дополнительное оборудование:
 
 1. Руль и педали Logitech G29.
 
