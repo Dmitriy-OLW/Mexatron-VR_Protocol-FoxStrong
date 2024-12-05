@@ -9,7 +9,8 @@ The game has two different maps, one is an asteroid belt in outer space, and the
 The player will have to test himself in endless mode. Before starting the game, it is recommended to undergo training.
 
 There are two types of enemies in the game: a Combat space cruiser and a Heavy Space Fighter. There are 4 plasma guns installed on board the flying machine, effective against enemy ships. The game has various skins for the player's car.
-Equipment and Administration
+
+## Equipment and Administration
 
 ### Additional equipment must be used for the game:
 
@@ -35,7 +36,8 @@ The game was primarily created as an attraction for a mobile platform and a VR h
 Игроку предстоит испытать себя в бесконечном режиме. Перед начало игры, рекомендуется пройти обучение.
 
 В игре присутствует два типа врагов: Боевой космический крейсер и Тяжёлый космический истребитель. На борту летающей машины установлено 4 плазменных орудий, эффективные против вражеских кораблей. В игре присутствуют различные скины на автомобиль игрока.
-Equipment and Administration
+
+## Оборудование и администрирование
 
 ### Для игры необходимо использовать дополнительное оборудование:
 
